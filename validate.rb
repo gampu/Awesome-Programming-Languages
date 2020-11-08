@@ -3,8 +3,6 @@ require 'kramdown'
 require 'parallel'
 require 'uri'
 
-BASE_URI = ENV['BASE_URI'] || 'https://github.com/gampu/Awesome-Programming-Languages'
-
 doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
 links = doc.css('a').to_a
 puts "Validating #{links.count} links..."
@@ -12,7 +10,7 @@ puts "Validating #{links.count} links..."
 invalids = []
 Parallel.each(links, :in_threads => 4) do |link|
   begin
-    uri = URI.join(BASE_URI, link.attr('href'))
+    uri = link.attr('href')
     open(uri)
     putc('.')
   rescue
