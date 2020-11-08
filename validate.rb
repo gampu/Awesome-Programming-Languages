@@ -1,3 +1,6 @@
+require 'nokogiri'
+require 'kramdown'
+
 BASE_URI = ENV['BASE_URI'] || 'https://github.com/gampu/Awesome-Programming-Languages'
 
 doc = Nokogiri::HTML(Kramdown::Document.new(open('README.md').read).to_html)
