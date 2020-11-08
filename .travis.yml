@@ -1,5 +1,5 @@
 # https://medium.com/@jondot/using-travis-ci-to-validate-awesome-lists-ed12ed697146
 language: ruby
 rvm:
-- 2.2
+- 2.5
 script: bundle exec ruby validate.rb

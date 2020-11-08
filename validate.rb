@@ -1,5 +1,7 @@
 require 'nokogiri'
 require 'kramdown'
+require 'parallel'
+require 'uri'
 
 BASE_URI = ENV['BASE_URI'] || 'https://github.com/gampu/Awesome-Programming-Languages'
 
