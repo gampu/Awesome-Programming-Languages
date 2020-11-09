@@ -4,4 +4,4 @@ install:
   - sudo npm install -g markdown-link-check
 
 script: 
-  - ./validate_links
+  - bash validate_links.sh

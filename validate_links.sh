@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Collect all dead links in a file
 find . -name \*.md -exec markdown-link-check {} \; 2>/dev/null | egrep "[✖]" > broken.txt
 
