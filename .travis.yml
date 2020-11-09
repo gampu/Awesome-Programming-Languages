@@ -1,5 +1,7 @@
-# https://medium.com/@jondot/using-travis-ci-to-validate-awesome-lists-ed12ed697146
-language: ruby
-rvm:
-- 2.5
-script: bundle exec ruby validate.rb
+# https://github.com/richelbilderbeek/travis_markdown-link-check
+install:
+  - sudo apt-get install npm
+  - sudo npm install -g markdown-link-check
+
+script: 
+  - ./validate_links
