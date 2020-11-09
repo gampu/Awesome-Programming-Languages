@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgampu%2FAwesome-Programming-Languages&count_bg=%2379C83D&title_bg=%23625B5B&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ## Awesome-Programming-Languages
 > A one stop repository for links to source code of programming languages(i.e compilers/interpreters) maintained on Github or Gitlab.
 
