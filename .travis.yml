@@ -1,7 +1,0 @@
-# https://github.com/richelbilderbeek/travis_markdown-link-check
-install:
-  - sudo apt-get install npm
-  - sudo npm install -g markdown-link-check
-
-script: 
-  - bash validate_links.sh
