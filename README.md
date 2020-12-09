@@ -158,5 +158,8 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## V
 - [V on Github](https://github.com/vlang/v)
 
+## Verona
+- [Verona on Github](https://github.com/microsoft/verona)
+
 ## Zig
 - [Zig on Github](https://github.com/ziglang/zig)
