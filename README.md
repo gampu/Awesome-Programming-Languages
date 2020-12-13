@@ -87,6 +87,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Kotlin
 - [Kotlin on Github](https://github.com/JetBrains/kotlin)
 
+## Koto
+- [Koto on Github](https://github.com/koto-lang/koto)
+
 ## Lily
 - [Lily on Gitlab](https://gitlab.com/FascinatedBox/lily)
 
