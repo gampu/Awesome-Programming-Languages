@@ -6,6 +6,12 @@
 > A one stop repository for links to source code of programming languages(i.e compilers/interpreters) maintained on Github or Gitlab.
 
 The list is lexicographically sorted by language name. If you want to add an entry, pull requests are welcome.
+## Ark
+- [Ark on Github](https://github.com/ark-lang/ark)
+
+## ArkScript
+- [ArkScript on Github](https://github.com/ArkScript-lang/Ark)
+
 ## C
 - [GCC on GNU](https://gcc.gnu.org/git/?p=gcc.git;a=tree)
 - [GCC on Github(Mirror)](https://github.com/gcc-mirror/gcc)
