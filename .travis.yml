@@ -1,7 +1,7 @@
 # https://github.com/dkhamsing/awesome_bot/
 language: ruby
 rvm:
-  - 2.2
+  - 2.4
 before_script:
   - gem install awesome_bot
 script:
