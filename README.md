@@ -157,6 +157,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Swift
 - [Swift on Github](https://github.com/apple/swift)
 
+## Taichi
+- [Taichi on Github](https://github.com/taichi-dev/taichi)
+
 ## Terra
 - [Terra on Github](https://github.com/terralang/terra)
 
