@@ -87,6 +87,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Io
 - [Io on Github](https://github.com/IoLanguage/io)
 
+## Jolie
+- [Jolie on Github](https://github.com/jolie/jolie)
+
 ## Julia
 - [Julia on Github](https://github.com/JuliaLang/julia)
 
