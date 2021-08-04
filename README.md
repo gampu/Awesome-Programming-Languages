@@ -173,6 +173,10 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## V
 - [V on Github](https://github.com/vlang/v)
 
+## Vala
+- [Vala on Github](https://github.com/gnome/vala)
+- [Vala on Gitlab](https://gitlab.gnome.org/GNOME/vala)
+
 ## Verona
 - [Verona on Github](https://github.com/microsoft/verona)
 
