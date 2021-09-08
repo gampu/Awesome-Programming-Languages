@@ -157,6 +157,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Skip
 - [Skip on Github](https://github.com/skiplang/skip)
 
+## Squirrel
+- [Squirrel on Github](https://github.com/albertodemichelis/squirrel)
+
 ## Swift
 - [Swift on Github](https://github.com/apple/swift)
 
