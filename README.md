@@ -12,6 +12,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## ArkScript
 - [ArkScript on Github](https://github.com/ArkScript-lang/Ark)
 
+## Arturo
+- [Arturo on Github](https://github.com/arturo-lang/arturo)
+
 ## C
 - [GCC on GNU](https://gcc.gnu.org/git/?p=gcc.git;a=tree)
 - [GCC on Github(Mirror)](https://github.com/gcc-mirror/gcc)
