@@ -73,6 +73,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Gosu
 - [Gosu on Github](https://github.com/gosu-lang/gosu-lang)
 
+## Hare
+- [Hare on Sourcehut](https://git.sr.ht/~sircmpwn/hare/tree)
+
 ## Haskell
 - [GHC on Gitlab](https://gitlab.haskell.org/ghc/ghc)
 - [GHC on Github(Mirror)](https://github.com/ghc/ghc)
