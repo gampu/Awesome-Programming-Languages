@@ -73,6 +73,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Gosu
 - [Gosu on Github](https://github.com/gosu-lang/gosu-lang)
 
+## Hack
+- [Hack on Github](https://github.com/facebook/hhvm)
+
 ## Hare
 - [Hare on Sourcehut](https://git.sr.ht/~sircmpwn/hare/tree)
 
