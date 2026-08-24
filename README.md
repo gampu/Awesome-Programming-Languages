@@ -161,6 +161,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Scala
 - [Scala on Github](https://github.com/scala/scala)
 
+## SEMAPRAX
+- [SEMAPRAX on Github](https://github.com/wavect/semaprax)
+
 ## Skip
 - [Skip on Github](https://github.com/skiplang/skip)
 
