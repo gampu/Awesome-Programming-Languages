@@ -53,6 +53,9 @@ The list is lexicographically sorted by language name. If you want to add an ent
 ## Eta
 - [Eta on Github](https://github.com/typelead/eta)
 
+## Faber
+- [Faber on Github](https://github.com/faberlang/faber)
+
 ## Frege
 - [Frege on Github](https://github.com/Frege/frege)
 
